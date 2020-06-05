@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+.header{
+    background-color: #3E0A84;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3E0A84;
+    color: white;
+    text-align: center;
+ }
+
+ .nav li a{
+     color: #3E0A84;
+ }
+
+ .underline{
+     text-decoration: underline;
+     color: #3E0A84;
+ }
+.card-bg{
+    color: white;
+    background-color: #3E0A84;
+}
